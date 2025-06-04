@@ -79,7 +79,14 @@
             "value": "0xe75",
             "show": true,
             "match": true
-          }                                         
+          },
+          {
+            "key": "serialNumber",
+            "label": "Serial Number",
+            "value": "",
+            "show": true,
+            "match": false
+          }                                                     
         ],
         "result": {
           "value": "A305 Original",
@@ -167,7 +174,7 @@
             "match": true
           },
           {
-            "key": "serialnumber",
+            "key": "serialNumber",
             "label": "Serial Number",
             "value": "",
             "show": true,
