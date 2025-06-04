@@ -1,1 +1,183 @@
-
+{
+    "devices": [
+      {
+        "model": "A305",
+        "fields": [
+          {
+            "key": "vid",
+            "label": "VID",
+            "value": "0x05ac",
+            "show": true,
+            "match": true
+          },
+          {
+            "key": "pid",
+            "label": "PID",
+            "value": "0x110a",
+            "show": true,
+            "match": true
+          },
+          {
+            "key": "interface",
+            "label": "Interface",
+            "value": "HID",
+            "show": true,
+            "match": true
+          }, 
+          {
+            "key": "manufacturer",
+            "label": "Manufacturer",
+            "value": "Apple,Inc",
+            "show": true,
+            "match": false
+          },   
+          {
+            "key": "product",
+            "label": "Product",
+            "value": "Apple,Inc",
+            "show": true,
+            "match": false
+          },                             
+          {
+            "key": "serial",
+            "label": "Serial",
+            "value": "DWH",
+            "show": true,
+            "match": false
+          },
+          {
+            "key": "version",
+            "label": "Version",
+            "value": "26.81",
+            "show": true,
+            "match": false
+          },
+          {
+            "key": "chipInfo",
+            "label": "Chip Info",
+            "value": "0x62",
+            "show": true,
+            "match": true
+          },  
+          {
+            "key": "romVersion",
+            "label": "Rom Version",
+            "value": "0xe4815b9e",
+            "show": true,
+            "match": true
+          }, 
+          {
+            "key": "patch1Version",
+            "label": "Patch1 Version",
+            "value": "0xbcc",
+            "show": true,
+            "match": true
+          }, 
+          {
+            "key": "patch2Version",
+            "label": "Patch2 Version",
+            "value": "0xe75",
+            "show": true,
+            "match": true
+          }                                         
+        ],
+        "result": {
+          "value": "A305 Original",
+          "show": true
+        }
+      },
+      {
+        "model": "B825",
+        "fields": [
+          {
+            "key": "vid",
+            "label": "VID",
+            "value": "0x05ac",
+            "show": true,
+            "match": true
+          },
+          {
+            "key": "pid",
+            "label": "PID",
+            "value": "0x110b",
+            "show": true,
+            "match": true
+          },
+          {
+            "key": "interface",
+            "label": "Interface",
+            "value": "Audio+HID",
+            "show": true,
+            "match": true
+          }, 
+          {
+            "key": "manufacturer",
+            "label": "Manufacturer",
+            "value": "Apple,Inc",
+            "show": true,
+            "match": false
+          },   
+          {
+            "key": "product",
+            "label": "Product",
+            "value": "Apple,Inc",
+            "show": true,
+            "match": false
+          },                             
+          {
+            "key": "serial",
+            "label": "Serial",
+            "value": "DWH",
+            "show": true,
+            "match": false
+          },
+          {
+            "key": "version",
+            "label": "Version",
+            "value": "26.81",
+            "show": true,
+            "match": false
+          },
+          {
+            "key": "chipInfo",
+            "label": "Chip Info",
+            "value": "0x62",
+            "show": true,
+            "match": true
+          },  
+          {
+            "key": "romVersion",
+            "label": "Rom Version",
+            "value": "0xe4815b9e",
+            "show": true,
+            "match": true
+          }, 
+          {
+            "key": "patch1Version",
+            "label": "Patch1 Version",
+            "value": "0xbcc",
+            "show": true,
+            "match": true
+          }, 
+          {
+            "key": "patch2Version",
+            "label": "Patch2 Version",
+            "value": "0x1371",
+            "show": true,
+            "match": true
+          },
+          {
+            "key": "serialnumber",
+            "label": "Serial Number",
+            "value": "",
+            "show": true,
+            "match": false
+          }                                                     
+        ],
+        "result": {
+          "value": "B825 Original",
+          "show": true
+        }
+      }
+    ]
+  }
